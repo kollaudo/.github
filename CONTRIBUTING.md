@@ -10,7 +10,7 @@ now are use cases, feedback on the design and recipes for the tools you use.
 - **Design**: read the [architecture decisions](https://github.com/kollaudo/kollaudo/tree/main/docs/adr).
   A change that goes against an accepted ADR needs a new ADR that supersedes it.
 - **Tool-specific support** belongs in a recipe, not in the core
-  (see [ADR 0002](https://github.com/kollaudo/kollaudo/blob/main/docs/adr/0002-tool-agnostic-core.md)).
+  (see [ADR 0003](https://github.com/kollaudo/kollaudo/blob/main/docs/adr/0003-tool-agnostic-core.md)).
 
 ## Pull requests
 
