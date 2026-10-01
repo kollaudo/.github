@@ -6,8 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>Quality gates for every promotion, whatever builds, tests and deploys your software.</strong><br>
-  <sub><i>Collaudo</i> (Italian): the final acceptance test before something is put into service.</sub>
+  <strong>Quality gates for every promotion, whatever builds, tests and deploys your software.</strong>
 </p>
 
 Your tests already run somewhere: GitHub Actions, Azure DevOps, a Kargo verification, a tester's laptop.
