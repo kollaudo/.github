@@ -31,3 +31,5 @@ kollaudo verdict --component api --env staging --version 3f2a9c1   # exit code 0
 
 Kollaudo is young and open source (Apache-2.0). Ideas, questions and "it didn't work for me" are all
 welcome in [Issues](https://github.com/kollaudo/kollaudo/issues).
+
+[One minute overview](https://lnkd.in/p/egSXMh5b)
